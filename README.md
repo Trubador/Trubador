@@ -31,8 +31,9 @@ https://1tools.io
 - Javascript/Typescript
 - K6 load testing
 - Kubernetes KEDA
-- Pulumi- 
+- Pulumi 
 - Postman
+- Rest API
 - Windows development
 - Webscraping and Apify Crawlee
 - Enterprise networking
