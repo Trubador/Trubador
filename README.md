@@ -53,6 +53,7 @@ https://1tools.io
 ## 🤔 I’m looking for help with ##
 
 - Marketing
+- Frontend development and graphics design
 
 ## 📫 Contact me on ##
 
