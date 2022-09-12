@@ -18,7 +18,7 @@ https://1tools.io
 ## ⚡ Fun facts ##
 
 - My site Cloudcostify.app is the first solution for Pulumi cost estimation and is on page 1 on Google for the keyword "pulumi cost estimation".
-- I don't drink ☕ contrary to most IT professionals 
+- I don't drink ☕ contrary to most IT professionals.
 
 ## 💬 Ask me about ##
 
