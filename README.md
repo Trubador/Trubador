@@ -23,6 +23,22 @@ https://1tools.io
 - Posted more than 25 posts on Azure Q/A forum and Azure feedback forum
 - I don't drink ☕ contrary to most IT professionals.
 
+## 🔧 Skills ##
+
+- Azure
+- C#
+- Python
+- Javascript/Typescript
+- K6 load testing
+- Kubernetes KEDA
+- Pulumi- 
+- Postman
+- Windows development
+- Webscraping and Apify Crawlee
+- Enterprise networking
+- Vue
+- And much more
+
 ## 💬 Ask me about ##
 
 - Azure software development
@@ -43,6 +59,22 @@ Linkedin: https://www.linkedin.com/in/casper-rub%C3%A6k/
 
 <!--
 **Trubador/Trubador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Functions
+- App Services
+- API Management
+- Container Apps
+- Service Bus
+- Key Vault
+- Storage Accounts
+- Cosmos DB
+
+
+### Azure ###
+### DevOps ###
+
+### IT Security ###
+
+
 
 Here are some ideas to get you started:
 
