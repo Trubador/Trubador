@@ -6,13 +6,13 @@ Blog: https://medium.com/@casperrubaek
 
 ## Projects ##
 
-Cloudcostify
+Cloudcostify (Pulumi cost estimation)
 https://cloudcostify.app
 
-Trustpilot reviews scraper
+Trustpilot reviews scraper (Extract reviews from trustpilot.com)
 https://apify.com/casper11515/trustpilot-reviews-scraper
 
-1Tools
+1Tools (Free tools for IT professionals)
 https://1tools.io
 
 ## ⚡ Fun facts ##
@@ -30,13 +30,13 @@ https://1tools.io
 - Network
 - Stocks investing
 
-## 📫 Contact me on ##
-
-Linkedin: https://www.linkedin.com/in/casper-rub%C3%A6k/
-
 ## 🤔 I’m looking for help with ##
 
 - Marketing
+
+## 📫 Contact me on ##
+
+Linkedin: https://www.linkedin.com/in/casper-rub%C3%A6k/
 
 <!--
 **Trubador/Trubador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
