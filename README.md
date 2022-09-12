@@ -4,7 +4,7 @@ I am one of those mysterious people that mostly create closed source, so you fin
 
 Blog: https://medium.com/@casperrubaek
 
-## Projects ##
+## 🏗️ Projects ##
 
 Cloudcostify (Pulumi cost estimation)
 https://cloudcostify.app
