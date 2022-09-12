@@ -17,7 +17,10 @@ https://1tools.io
 
 ## ⚡ Fun facts ##
 
-- My site Cloudcostify.app is the first solution for Pulumi cost estimation and is on page 1 on Google for the keyword "pulumi cost estimation".
+- My site Cloudcostify.app is the first solution for Pulumi cost estimation and is on page 1 on Google for the keyword "pulumi cost estimation"
+- Run my own software solutions in Azure
+- Advocate for true serverless services in Azure: https://twitter.com/AzureFunctions/status/1565832712136818688
+- Posted more than 25 posts on Azure Q/A forum and Azure feedback forum
 - I don't drink ☕ contrary to most IT professionals.
 
 ## 💬 Ask me about ##
