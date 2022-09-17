@@ -21,25 +21,22 @@ And many more.
 
 - My site Cloudcostify.app is the first solution for Pulumi cost estimation and is on page 1 on Google for the keyword "pulumi cost estimation"
 - I run my own software solutions in Azure
-- I advocate for true serverless services in Azure: https://twitter.com/AzureFunctions/status/1565832712136818688
-- I have posted more than 25 posts on Azure Q/A forum https://learn.microsoft.com/en-us/users/casperrubaek/qna) and Azure feedback forum
-- I don't drink ☕ contrary to most IT professionals.
+- I advocate for true serverless services in Azure
+- I have posted more than 20 posts on the Azure Q/A forum and Azure feedback forum
+- I don't drink ☕ contrary to most IT professionals
 
 ## 🔧 Skills ##
 
 - Azure
 - C#
-- Python
-- Javascript/Typescript
 - K6 load testing
 - Kubernetes KEDA
+- Kubernetes
 - Pulumi 
 - Postman
 - Rest API
-- Windows development
 - Webscraping and Apify Crawlee
 - Enterprise networking
-- Vue
 - And much more
 
 ## 💬 Ask me about ##
@@ -77,7 +74,9 @@ Linkedin: https://www.linkedin.com/in/casper-rub%C3%A6k/
 ### DevOps ###
 
 ### IT Security ###
-
+Vue
+- Python
+- Javascript/Typescript
 
 
 Here are some ideas to get you started:
