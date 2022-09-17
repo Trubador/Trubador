@@ -15,6 +15,8 @@ https://apify.com/casper11515/trustpilot-reviews-scraper
 1Tools (Free tools for IT professionals)
 https://1tools.io
 
+And many more.
+
 ## ⚡ Fun facts ##
 
 - My site Cloudcostify.app is the first solution for Pulumi cost estimation and is on page 1 on Google for the keyword "pulumi cost estimation"
