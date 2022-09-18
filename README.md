@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am one of those mysterious people that mostly create closed source, so you find won't find many public repositories 😀 
+I am one of those mysterious people that mostly create closed source, so you won't find many public repositories 😀 
 
 Blog: https://medium.com/@casperrubaek
 
