@@ -21,7 +21,7 @@ And many more.
 
 - My site Cloudcostify.app is the first solution for Pulumi cost estimation and is on page 1 on Google for the keyword "pulumi cost estimation"
 - I run my own software solutions in Azure
-- I advocate for true serverless services in Azure
+- I advocate for true serverless services in Azure and local emulator for Service Bus: https://github.com/Azure/azure-service-bus/issues/223#issuecomment-1261246251
 - I have posted more than 20 posts on the Azure Q/A forum and Azure feedback forum
 - I don't drink ☕ contrary to most IT professionals
 
