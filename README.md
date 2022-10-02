@@ -39,6 +39,12 @@ And many more.
 - Enterprise networking
 - And much more
 
+## 🔧 API Integrations ##
+
+Energinet Datahub
+Energinet Eloverblik 
+Stripe 
+
 ## 💬 Ask me about ##
 
 - Azure software development
