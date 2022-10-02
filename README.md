@@ -41,9 +41,10 @@ And many more.
 
 ## 🔧 API Integrations ##
 
-Energinet Datahub
-Energinet Eloverblik 
-Stripe 
+- Energinet Datahub
+- Energinet Eloverblik 
+- Stripe 
+.
 
 ## 💬 Ask me about ##
 
