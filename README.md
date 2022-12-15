@@ -63,7 +63,7 @@ And many more.
 
 ## 📫 Contact me on ##
 
-Linkedin: https://www.linkedin.com/in/casper-rub%C3%A6k/
+Linkedin: https://www.linkedin.com/in/casper-rubaek/
 
 <!--
 **Trubador/Trubador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
