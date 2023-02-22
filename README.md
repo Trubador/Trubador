@@ -44,7 +44,6 @@ And many more.
 - Energinet Datahub
 - Energinet Eloverblik 
 - Stripe 
-.
 
 ## 💬 Ask me about ##
 
