@@ -15,11 +15,6 @@ https://apify.com/casper11515/trustpilot-reviews-scraper
 1Tools (Free tools for IT professionals)
 https://1tools.io
 
-CheckEnergyBill
-
-Integration with Energinet eloverblik and Datahub API to validate the cost of consumer energy bills.
-Prototype has been deployed and is working functionally.
-
 Homeey
 
 Property rental search platform that scrapes and monitors the web continuously for new property listings.
