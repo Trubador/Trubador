@@ -21,12 +21,12 @@ Property rental search platform that scrapes and monitors the web continuously f
 Use case analysis and validation, planning, architecture design, and implementation.
 Integration with Stripe API.
 
-Domain price comparison
+### Domain price comparison ###
 
 On-demand web scraping in Azure to gather real-time domain prices.
 Bypassing Cloudflare bot protection with proxies.
 
-Azure Job Scheduler
+### Azure Job Scheduler ###
 
 Designed a solution for advanced software job scheduling scenarios since Azure does not natively provide a service with that capability.
 Services involved: Azure API Management, Azure Functions, Azure Blob storage, Azure SQL Database, Azure Service bus, Azure Event Grid.
@@ -36,7 +36,7 @@ Rest Api client which fetches data from Energinet Open Rest Api
 Client which fetches data and writes it to a MySQL database for visualization as graphs in Grafana.
 Application is written in C#.
 
-Facebook Messenger chatbot
+### Facebook Messenger chatbot ###
 
 Communication with people via facebook page via a chatbot that runs in ASP .Net core Web Api through ngrok reverse tunnel which receives webhook from facebook messenger. Sending messages via facebook messenger send API.
 
