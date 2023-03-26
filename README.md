@@ -42,7 +42,7 @@ Communication with people via facebook page via a chatbot that runs in ASP .Net 
 
 Application is written in C#.
 
-And many more.
+And many more projects.
 
 ## ⚡ Fun facts ##
 
