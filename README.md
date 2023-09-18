@@ -53,6 +53,7 @@ And many more projects.
 - I don't drink ☕ contrary to most IT professionals
 - I love listening to music and the intricate details of a Hi-Fi music system setup
 - I love speed and adrenaline fueled activites
+- I am committed to self development in all aspects
 - I am curious about almost anything and constantly try to expand my perspective by questioning the inner workings of systems to find innovative solutions for non-trivial problems-
 - I have the mindset that everything is possible initially, no matter how complicated, unrealistic, grand or vague if adequate resources, vision and motivation are available
 - I have the INTJ (Architect) personality type
