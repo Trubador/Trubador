@@ -51,6 +51,11 @@ And many more projects.
 - I advocate for true serverless services in Azure and local emulator for Service Bus: https://github.com/Azure/azure-service-bus/issues/223#issuecomment-1261246251
 - I have posted more than 20 posts on the Azure Q/A forum and Azure feedback forum
 - I don't drink ☕ contrary to most IT professionals
+- I love listening to music and the intricate details of a Hi-Fi music system setup
+- I love speed and adrenaline fueled activites
+- I am curious about almost anything and constantly try to expand my perspective by questioning the inner workings of systems to find innovative solutions for non-trivial problems-
+- I have the mindset that everything is possible initially, no matter how complicated, unrealistic, grand or vague if adequate resources, vision and motivation are available
+- I have the INTJ (Architect) personality type
 
 ## 🔧 Skills ##
 
@@ -81,15 +86,19 @@ And many more projects.
 - Security
 - Network
 - Stocks investing
+- Personal finance and budgetting
 
 ## 🤔 I’m looking for help with ##
 
+- Commercial development skills
+- Sales
 - Marketing
 - Frontend development and graphics design
 
-## 📫 Contact me on ##
+## 📫 Feel free to contact me on ##
 
-LinkedIn: https://www.linkedin.com/in/casper-rubaek/
+- LinkedIn: https://www.linkedin.com/in/casper-rubaek/
+- Github
 
 <!--
 **Trubador/Trubador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
