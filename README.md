@@ -82,13 +82,13 @@ And many more projects.
 ## 💬 Ask me about ##
 
 - Azure software architecture
-- Webscraping
+- Webscraping (Use my preferred platform for webscraping: https://www.apify.com?fpr=ykfd0 )
 - Integration
 - Automation
 - Security
 - Network
 - Stocks investing
-- Personal finance and budgetting
+- Personal finance budgetting and forecasting (Use my preferred tool for financial forecasting: https://projectionlab.com/da-dk?ref=casper31 )
 - Risk Management
 - Business Development
 - Forecasting
