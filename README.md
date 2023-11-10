@@ -53,10 +53,10 @@ And many more projects.
 - I don't drink ☕ contrary to most IT professionals
 - I love listening to music and the intricate details of a Hi-Fi music system setup
 - I love speed and adrenaline fueled activites
-- I am committed to self development in all aspects
-- I am curious about almost anything and constantly try to expand my perspective by questioning the inner workings of systems to find innovative solutions for non-trivial problems-
-- I have the mindset that everything is possible initially, no matter how complicated, unrealistic, grand or vague if adequate resources, vision and motivation are available
-- I have the INTJ (Architect) personality type
+- I am committed to personal self development in all aspects and I value quality
+- I am curious about almost anything and constantly try to expand my perspective by questioning the inner workings of systems to find innovative solutions for non-trivial problems
+- I have the mindset that everything is possible initially, no matter how complicated, unrealistic, grand or vague if adequate resources, vision, purpose and motivation are available
+- I have the Turbulent INTJ (Architect) personality type in the Myers Briggs 16 personalities method
 
 ## 🔧 Skills ##
 
@@ -76,11 +76,12 @@ And many more projects.
 
 - Energinet Datahub
 - Energinet Eloverblik 
-- Stripe 
+- Stripe
+- Many others - many more than possible to list here 
 
 ## 💬 Ask me about ##
 
-- Azure software development
+- Azure software architecture
 - Webscraping
 - Integration
 - Automation
@@ -88,6 +89,12 @@ And many more projects.
 - Network
 - Stocks investing
 - Personal finance and budgetting
+- Risk Management
+- Business Development
+- Forecasting
+- Project Planning
+- Personal Development
+- Process Automation
 
 ## 🤔 I’m looking for help with ##
 
@@ -95,6 +102,7 @@ And many more projects.
 - Sales
 - Marketing
 - Frontend development and graphics design
+- Legals
 
 ## 📫 Feel free to contact me on ##
 
