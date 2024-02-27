@@ -9,9 +9,6 @@ Blog: https://medium.com/@casperrubaek
 ###  Cloudcostify (Pulumi cost estimation) ###
 https://cloudcostify.app
 
-### Trustpilot reviews scraper (Extract reviews from trustpilot.com) ###
-https://apify.com/casper11515/trustpilot-reviews-scraper
-
 ### 1Tools (Free tools for IT professionals) ###
 https://1tools.io
 
