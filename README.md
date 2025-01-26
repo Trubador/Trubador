@@ -85,7 +85,7 @@ And many more projects.
 - Security
 - Network
 - Stocks investing
-- Personal finance budgetting and forecasting (Use my preferred tool for financial forecasting: https://projectionlab.com/da-dk?ref=casper31 )
+- Personal finance budgetting and forecasting (Use my preferred tool for financial forecasting: [Projection Lab](https://projectionlab.com/da-dk?ref=casper31)) 
 - Risk Management
 - Business Development
 - Forecasting
